@@ -8,7 +8,7 @@ Public static $day_start = "9:00am";
 function  layOutDay(&$events) {
 /**
 Lays out events for a single day
-set the width, the left and top positions of an event 
+set the length, width, the left and top positions of an event 
 
 @param events     
  An array of calendar events. Each event consists of a start time, end 
